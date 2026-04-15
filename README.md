@@ -18,7 +18,7 @@ Claude API · Python · Streamlit · Tool Use · Agentic Loop
 ## Correr localmente
 
 ```bash
-git clone https://github.com/PlanetSTEAM/financial-analyzer
+git clone https://github.com/lcarrenoy/financial-analyzer
 cd financial-analyzer
 uv sync
 cp .env.example .env
